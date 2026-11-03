@@ -2,7 +2,6 @@
 
 Projet Wild Code School : formulaire d'inscription pour le WildFest 📝
 
-📌 Présentation du projet :
 Ce projet est une application web monopage (Single Page Application) développée en HTML5, CSS3 et JavaScript. L'objectif est d'offrir une interface moderne, réactive et adaptée à tous les écrans pour s'inscrire à la prochaine édition du festival.
 
 🌟 Fonctionnalités principales :
